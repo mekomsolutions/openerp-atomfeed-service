@@ -5,13 +5,13 @@
     <parent>
         <artifactId>openerp-service</artifactId>
         <groupId>org.bahmni.openerp</groupId>
-        <version>0.94-SNAPSHOT</version>
+        <version>0.94-1.0.0</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.bahmni.openerp</groupId>
     <artifactId>openerp-atomfeed-service</artifactId>
-    <version>0.94-SNAPSHOT</version>
+    <version>0.94-1.0.0</version>
     <packaging>war</packaging>
 
     <name>openerp-atomfeed-service</name>
